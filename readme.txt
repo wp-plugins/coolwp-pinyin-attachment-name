@@ -1,4 +1,4 @@
-=== Coolwp Pinyin Attachment Name ===
+﻿=== Coolwp Pinyin Attachment Name ===
 Contributors: Suifengtec
 Donate link: http://suoling.net/coolwp-pinyin-attachment-name/
 Tags: pinyin, pinyin attachment name
@@ -11,14 +11,22 @@ License:GPLv3
 
 == Description ==
 
+
 1.兼容英文版的Wordpress.
+
 2.插件仅对标题中的中文字符进行友好转换，字典范围为 GB2312 全码表约7000个汉字.
+
 3.使用分词符连接拼音便于人眼分辨.
+
 4.非码表汉字会被忽略，如果标题里使用了特别的繁体汉字，可能需要手动为这些汉字添加拼音.
+
 5.仅供Wordpress中文版用户使用，所以这里就没必要写英文版说明了.
+
 6.字典函数来自于Xiaole Tao的插件Pinyin Permalinks.
 
+
 == Installation ==
+
 
 1. 进入 Wordpress 后台,依次点击->插件->（页面左上方）安装插件，在这个页面的搜索栏中输入'Pinyin Attachment Name'，然后点击“搜索该插件”，找到该插件后，点击插件名下方的"现在安装"，即可进行在线下载和安装.
 2. 安装之后，在Wordpress后台->插件页面找到该插件，点击插件名称下的“启用”即可.
