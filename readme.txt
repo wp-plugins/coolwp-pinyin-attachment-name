@@ -1,5 +1,6 @@
-=== Coolwp Pinyin Attachment Name ===
-Contributors: Suifengtec
+﻿=== Coolwp Pinyin Attachment Name ===
+Contributors: suifengtec
+
 Donate link: http://suoling.net/coolwp-pinyin-attachment-name/
 Tags: pinyin, pinyin attachment name
 Requires at least: 3.3
